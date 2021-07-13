@@ -1,4 +1,4 @@
-# POSIX
+# Uso de la interfaz POSIX de un Sistema Operativo
 
 Descripción del programa cat_pipe_tr_pipe_wc
 Escribe un programa llamado cat_pipe_tr_pipe_wc que acepte las siguientes opciones ./cat_pipe_tr_pipe_wc [-e] -s SRC -d DST [FILEIN1 FILEIN2 ... FILEINn]. Por ejemplo:
